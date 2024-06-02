@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a reinforcement learning algorithm designed to find the Pareto Optimal Front in the context of wireless network routing. The approach leverages multi-objective reinforcement learning (MORL) to optimize various metrics such as latency and data throughput, crucial for efficient network management.
+This project implements a reinforcement learning algorithm designed to find the Pareto Optimal Front in the context of wireless network routing. The approach leverages multi-objective reinforcement learning (MORL) to optimize various metrics such as Packet Delivery Rate (PDR) and Delay, crucial for efficient network management.
 
 ## Features
 
